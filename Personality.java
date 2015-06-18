@@ -1,5 +1,7 @@
-# Java
-
+// Sulav Nakarmi 
+// COSI 12B, Spring 2013, Section 2
+// Programming Assignment #1, 1/26/14
+// This program will read a file and determine which personality follows from it. 
 import java.util.*;  
 import java.io.*;  
   
@@ -126,4 +128,7 @@ public class Personality {
     				System.out.print("P");
     			}
     		}
-   
+    	}
+    	System.out.println();
+    }
+}    
